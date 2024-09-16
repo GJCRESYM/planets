@@ -88,4 +88,4 @@ $ python animate.py --initial-file initial.csv \
 
 ## Contribution guide
 
-(...)
+(to be filled later)
