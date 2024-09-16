@@ -18,7 +18,7 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 (...)
 
 
-## Example
+## Examples
 
 The code is written to accept **command-line arguments** to specify the number
 of planets and the number of time steps.
@@ -92,4 +92,4 @@ $ python animate.py --initial-file initial.csv \
 
 ## Contribution guide
 
-(...)
+(to be filled later)
