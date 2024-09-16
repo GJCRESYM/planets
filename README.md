@@ -85,6 +85,10 @@ $ python animate.py --initial-file initial.csv \
 
 (...)
 
+## Installation
+
+(...)
+
 
 ## Contribution guide
 
